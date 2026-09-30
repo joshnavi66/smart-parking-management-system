@@ -1,0 +1,39 @@
+{
+  "lot_name": "Central Metro Smart Parking",
+  "active_tickets": [],
+  "completed_records": [
+    {
+      "ticket_id": "TKT-1001",
+      "license_plate": "AP 16 AX 8921",
+      "vehicle_type": "CAR",
+      "slot_id": "A-101",
+      "entry_time": "2026-09-28T19:10:36.643669",
+      "exit_time": "2026-09-28T19:11:33.666236",
+      "duration_hours": 0.02,
+      "duration_display": "1 min",
+      "fee_paid": 1.5
+    },
+    {
+      "ticket_id": "TKT-1002",
+      "license_plate": "AP 04 AG 4080",
+      "vehicle_type": "CAR",
+      "slot_id": "A-101",
+      "entry_time": "2026-09-28T19:13:22.166200",
+      "exit_time": "2026-09-28T19:14:19.551472",
+      "duration_hours": 0.02,
+      "duration_display": "1 min",
+      "fee_paid": 1.5
+    },
+    {
+      "ticket_id": "TKT-1003",
+      "license_plate": "AP 28 AX 3666",
+      "vehicle_type": "CAR",
+      "slot_id": "A-101",
+      "entry_time": "2026-09-30T18:01:08.946998",
+      "exit_time": "2026-09-30T18:05:17.575910",
+      "duration_hours": 0.07,
+      "duration_display": "4 mins",
+      "fee_paid": 3.0
+    }
+  ]
+}
